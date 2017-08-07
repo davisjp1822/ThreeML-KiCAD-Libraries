@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3424
+D MCP3424 4 channel 18bit I2C ADC
+K adc
+$ENDCMP
+#
+#End Doc Library

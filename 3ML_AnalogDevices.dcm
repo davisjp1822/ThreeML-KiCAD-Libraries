@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8220
+D Instrumentation Amplifier 1 Circuit Rail-to-Rail 8-MSOP
+K opamp, diffamp, instrumentation amp
+$ENDCMP
+#
+#End Doc Library
